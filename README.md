@@ -1,7 +1,6 @@
-echo "# aerobus" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m "primeira versão do redesign Aerobus"
 git branch -M main
-git remote add origin https://github.com/pedro2370ac/aerobus.git
+git remote add origin https://github.com/pedro2370ac/aerobus-redesign.git
 git push -u origin main
